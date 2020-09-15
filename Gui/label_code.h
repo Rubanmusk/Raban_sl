@@ -1,0 +1,41 @@
+#ifndef __LCDMENUICOS_H
+#define __LCDMENUICOS_H 
+
+#include "guix.h"
+
+
+extern const u8* MAINMENU_ICONNAME[GUI_LANGUAGE_NUM][4];
+
+extern const u8* HEAT_ICONNAME[GUI_LANGUAGE_NUM][6];
+extern const u8* SYSTEM_MENU[GUI_LANGUAGE_NUM][4];
+extern const u8* TOOLS_MENU[GUI_LANGUAGE_NUM][7];
+
+
+extern const u8* POWER_OFF_LABE[GUI_LANGUAGE_NUM][2];
+extern const u8* MATERIAL_OVER_LABE[GUI_LANGUAGE_NUM][2];
+extern const u8* MATERIAL_OK_LABE[GUI_LANGUAGE_NUM][2];
+extern const u8* CONFIRM_CANCEL_LABE[GUI_LANGUAGE_NUM][2];
+extern const u8* CONTINUE_PRINT_LABE[GUI_LANGUAGE_NUM][3];
+ 
+extern const u8* ERR_COLD_MENU[GUI_LANGUAGE_NUM][2];
+//extern const u8* END_PRINT_MENU[GUI_LANGUAGE_NUM];
+extern const u8* LANGUAGE_MENU[GUI_LANGUAGE_NUM][GUI_LANGUAGE_NUM];
+
+#endif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
